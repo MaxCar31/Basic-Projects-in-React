@@ -15,3 +15,7 @@ After cloning the repository, you can run each project with:
 ```bash
 npm install
 npm start
+
+## First project: interactive calculator in React
+
+![image](https://github.com/MaxCar31/Basic-Projects-in-React/assets/141116497/4793f734-c1d8-49dd-95bc-e47ddf42f63e)
